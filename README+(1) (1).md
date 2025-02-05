@@ -17,8 +17,10 @@
 - Dataset for the analysis: data_dictonary.txt, day.csv
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- 
+- Temperature, year, and season are strong positive predictors for bike rentals.
+- Workingday,weekday and temaprature has singnificant positive impact on rentals
+- Adverse weather (especially extreme) and holidays significantly reduce rentals.
+- Windspeed has negative impact on rentals
 
 
 ## Contact
